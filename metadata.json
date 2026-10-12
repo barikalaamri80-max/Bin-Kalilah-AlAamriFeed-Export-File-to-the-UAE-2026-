@@ -1,0 +1,6 @@
+{
+  "name": "Barakat Feed Sovereign Executive Dossier",
+  "description": "Executive strategic brief and legal-technical dossier for Barakat poultry feed import accreditation between Bin Kalilah Al-Aamri, Oman Flour Mills, and Barakat Al-Waqan Farms UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
