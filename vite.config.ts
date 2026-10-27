@@ -4,7 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {
+  return {base: '/Bin-Kalilah-AlAamriFeed-Export-File-to-the-UAE-2026-/',
+
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
